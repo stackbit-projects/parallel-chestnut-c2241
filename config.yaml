@@ -66,18 +66,10 @@ params:
       no_follow: false
     - type: action
       template: action
-      label: LinkedIn
-      url: https://www.linkedin.com/
+      label: Youtube
+      url: https://youtube.com
       style: icon
-      icon_class: linkedin
-      new_window: true
-      no_follow: false
-    - type: action
-      template: action
-      label: DEV
-      url: https://dev.to/
-      style: icon
-      icon_class: dev
+      icon_class: youtube
       new_window: true
       no_follow: false
   footer:
