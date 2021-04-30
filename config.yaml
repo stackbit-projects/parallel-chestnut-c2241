@@ -40,8 +40,8 @@ params:
       no_follow: false
     - type: action
       template: action
-      label: Contact
-      url: "/contact"
+      label: 'Innovation '
+      url: "/innovation"
       style: link
       icon_class: ''
       new_window: false
