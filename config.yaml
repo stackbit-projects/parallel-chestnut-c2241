@@ -32,8 +32,8 @@ params:
       no_follow: false
     - type: action
       template: action
-      label: Style Guide
-      url: "/style-guide"
+      label: Sustainable Development
+      url: "/sustainable-development"
       style: link
       icon_class: ''
       new_window: false
