@@ -7,8 +7,8 @@ params:
     type: header
     template: header
     title: Sus & Eco
-    tagline: A friendly chat about sustainable development, innovation & holistic
-      living
+    tagline: A friendly chat about sustainable development, innovation & personal
+      development
     logo_img: "/images/sus-eco-fontwork-sans-400-copy.png"
     logo_img_alt: Sus&Eco
     background_img: "/images/annie-spratt-tkvocukoecy-unsplash.jpg"
