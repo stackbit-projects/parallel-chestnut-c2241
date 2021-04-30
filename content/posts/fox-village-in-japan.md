@@ -3,7 +3,7 @@ title: 10 inspiring blogs on sustainable living
 subtitle: 'Blogs to find inspiration and guidance to live mindfully '
 date: '2021-04-11'
 thumb_img_path: /images/jazmin-quaynor-8ioenvmof-i-unsplash.jpg
-thumb_img_alt: A red fox sitting on a meadow
+thumb_img_alt: 'green leaf '
 content_img_path: /images/robin-schreiner-7y4858e8pfa-unsplash.jpg
 excerpt: >-
   We're always in search of inspiring and educational content that can help us
