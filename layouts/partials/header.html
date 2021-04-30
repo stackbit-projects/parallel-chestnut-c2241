@@ -1,6 +1,6 @@
 <header id="masthead" class="site-header">
   {{ if .image }}
-  <div id="header-bg" class="site-header-bg" style="opacity:0.8;background-image:url('{{ $.image | relURL }}')"></div>
+  <div id="header-bg" class="site-header-bg" style="opacity:0.8; background-image:url('{{ $.image | relURL }}')"></div>
   {{ else if $.Site.Params.header.background_img }}
   <div id="header-bg" class="site-header-bg" style="background-image:url('{{ $.Site.Params.header.background_img | relURL }}')"></div>
   {{ end }}
