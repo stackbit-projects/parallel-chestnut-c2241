@@ -40,7 +40,7 @@ params:
         no_follow: false
       - type: action
         template: action
-        label: 'Innovation '
+        label: Eco-friendly Innovation
         url: /innovation
         style: link
         icon_class: ''
