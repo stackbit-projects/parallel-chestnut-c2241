@@ -61,17 +61,17 @@ We love [EcoCult](https://ecocult.com/) as a hub for everything conscious in t
 
 ##### 3.[Life + Style + Justice](http://www.lifestylejustice.com/) 
 
-[Life + Style + Justice](http://www.lifestylejustice.com/) is influencer Hannah's outlet for navigating ethical and fair trade brands while staying true to her values. More than most bloggers, she digs deep into the behind-the-scenes of artisan wages and even travels to social enterprises in Southeast Asia. We love the raw, honest perspective she gives to the nitty gritty, researching beyond the marketing and certifications to the first-hand experience of real people. 3. 
+[Life + Style + Justice](http://www.lifestylejustice.com/) is influencer Hannah's outlet for navigating ethical and fair trade brands while staying true to her values. More than most bloggers, she digs deep into the behind-the-scenes of artisan wages and even travels to social enterprises in Southeast Asia. We love the raw, honest perspective she gives to the nitty gritty, researching beyond the marketing and certifications to the first-hand experience of real people. 3.
 
 ##### 4. [Melanin & Sustainable Style](https://melaninass.com/) 
 
 [Melanin & Sustainable Style](https://melaninass.com/) is an incredible platform promoting ethical living, sustainability and diversity in one inclusive space. Founder Dominique Drakeford is dedicated to celebrating holistic wellness and empowering communities of color. Tying the bridge between nature and culture, she features captivating interviews with ethical brands owned by women of color. Follow [MelaninASS](https://melaninass.com/) for thoughtfully curated content on non-toxic style, sustainable beauty and self-care.
 
-##### 5. [Sustainably Chic](https://www.sustainably-chic.com/)  
+##### 5. [Sustainably Chic](https://www.sustainably-chic.com/) 
 
 With beautiful fair OOTDs and ethical fashion recommendations, [Sustainably Chic](https://www.sustainably-chic.com/) is a passionate voice in the slow fashion and sustainability movements. Founder Natalie Kay brings a fresh perspective to the garment industry, and dives into the latest trends and styles for what responsible fashion could look like. Her community is an amazing mix of fashion enthusiasts and conscious consumers who believe in investing in people and the earth for a positive impact. If that resonates with you too, you'll feel at home with Sustainably Chic. 
 
-##### 6.[Going Zero Waste](https://www.goingzerowaste.com/) 
+##### 6.[Going Zero Waste](https://www.goingzerowaste.com/)
 
 After a health scare prompted her to make the switch to whole, from-scratch foods, all-natural deodorant, homemade cleaning products, and more, Kathryn Kellogg started [Going Zero Waste](https://www.goingzerowaste.com/) to share all that she was learning. Filled with actionable tips, and informative pieces on things like the circular economy and finding your very own zero waste community, this blog has all the tools you'll need to start living more sustainably.
 
@@ -83,7 +83,7 @@ Karen is an environmental scientist by day and an ethical fashion and sustainabl
 
 [Eco Warrior Princess](https://ecowarriorprincess.net/) was founded in 2010 by Jennifer Nini, an activist and certified organic farm owner. On the website, she talks about environmentalism and feminism in blunt, no-bullcrap ways. The whole website is very professional and her dry style of writing makes boring ethical living blogs seem much more entertaining!
 
-As well as sustainable living, Jennifer is dedicated to equality and social justice, helping to lift up other women with sustainability blogs and companies.
+> As well as sustainable living, Jennifer is dedicated to equality and social justice, helping to lift up other women with sustainability blogs and companies.
 
 ##### 9. [Inhabitat](https://inhabitat.com/) 
 
