@@ -24,8 +24,8 @@ params:
       no_follow: false
     - type: action
       template: action
-      label: About
-      url: "/about"
+      label: Personal Development
+      url: "/personal"
       style: link
       icon_class: ''
       new_window: false
