@@ -6,11 +6,14 @@ thumb_img_path: /images/jazmin-quaynor-8ioenvmof-i-unsplash.jpg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: /images/robin-schreiner-7y4858e8pfa-unsplash.jpg
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+  We're always in search of inspiring and educational content that can help us
+  navigate the ever more complex world of living a conscious lifestyle. Making
+  ethical choices in our everyday life might at times seem overwhelming. This is
+  why we love to find new people sharing their experiences and knowledge on
+  topics like ethical activism, sustainable fashion, zero waste living, organic
+  products, healthy food tips, and more. We have curated 10 of our favorite
+  sustainable living blogs where you can find inspirations, guidance, and a good
+  dose of reading bliss.
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
