@@ -12,7 +12,7 @@ params:
     logo_img: /images/sus-eco-fontwork-sans-400-copy.png
     logo_img_alt: Sus&Eco
     background_img: /images/robin-schreiner-7y4858e8pfa-unsplash.jpg
-    has_nav: false
+    has_nav: true
     nav_links:
       - type: action
         template: action
