@@ -50,14 +50,6 @@ params:
     social_links:
     - type: action
       template: action
-      label: Twitter
-      url: https://twitter.com/
-      style: icon
-      icon_class: twitter
-      new_window: true
-      no_follow: false
-    - type: action
-      template: action
       label: Instagram
       url: https://www.instagram.com/
       style: icon
@@ -66,10 +58,10 @@ params:
       no_follow: false
     - type: action
       template: action
-      label: GitHub
-      url: https://github.com/
+      label: Pinterest
+      url: https://pinterest.com/Sus_and_Eco
       style: icon
-      icon_class: github
+      icon_class: pinterest
       new_window: true
       no_follow: false
     - type: action
