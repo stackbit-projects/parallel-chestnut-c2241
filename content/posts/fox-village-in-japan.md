@@ -1,5 +1,5 @@
 ---
-title: The top 10 inspiring Sustain
+title: The top 10 inspiring Blogs ab
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
