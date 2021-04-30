@@ -11,7 +11,7 @@ params:
       living
     logo_img: "/images/sus-eco-fontwork-sans-400-copy.png"
     logo_img_alt: Sus&Eco
-    background_img: "/images/birger-strahl-gcjkauqmpj8-unsplash.jpg"
+    background_img: "/images/annie-spratt-tkvocukoecy-unsplash.jpg"
     has_nav: true
     nav_links:
     - type: action
