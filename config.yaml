@@ -24,7 +24,7 @@ params:
         no_follow: false
       - type: action
         template: action
-        label: Personal Development
+        label: Personal Growth
         url: /personal
         style: link
         icon_class: ''
