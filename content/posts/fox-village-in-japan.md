@@ -1,5 +1,5 @@
 ---
-title: 10 inspiring Blogs ab
+title: 10 inspiring blogs on sustainable living
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
