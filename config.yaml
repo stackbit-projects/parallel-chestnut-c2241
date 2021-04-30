@@ -1,93 +1,95 @@
----
 title: Sus & Eco
-baseURL: "/"
+baseURL: /
 params:
   palette: yellow
   header:
     type: header
     template: header
     title: Sus & Eco
-    tagline: A friendly female chat about sustainable development, eco-friendly innovation
-      & personal development
-    logo_img: "/images/sus-eco-fontwork-sans-400-copy.png"
+    tagline: >-
+      A friendly female chat about sustainable development, eco-friendly
+      innovation & personal growth
+    logo_img: /images/sus-eco-fontwork-sans-400-copy.png
     logo_img_alt: Sus&Eco
-    background_img: "/images/emile-seguin-r9ouekotggu-unsplash.jpg"
+    background_img: /images/emile-seguin-r9ouekotggu-unsplash.jpg
     has_nav: true
     nav_links:
-    - type: action
-      template: action
-      label: Home
-      url: "/"
-      style: link
-      icon_class: ''
-      new_window: false
-      no_follow: false
-    - type: action
-      template: action
-      label: Personal Development
-      url: "/personal"
-      style: link
-      icon_class: ''
-      new_window: false
-      no_follow: false
-    - type: action
-      template: action
-      label: Sustainable Development
-      url: "/sustainable-development"
-      style: link
-      icon_class: ''
-      new_window: false
-      no_follow: false
-    - type: action
-      template: action
-      label: 'Innovation '
-      url: "/innovation"
-      style: link
-      icon_class: ''
-      new_window: false
-      no_follow: false
+      - type: action
+        template: action
+        label: Home
+        url: /
+        style: link
+        icon_class: ''
+        new_window: false
+        no_follow: false
+      - type: action
+        template: action
+        label: Personal Development
+        url: /personal
+        style: link
+        icon_class: ''
+        new_window: false
+        no_follow: false
+      - type: action
+        template: action
+        label: Sustainable Development
+        url: /sustainable-development
+        style: link
+        icon_class: ''
+        new_window: false
+        no_follow: false
+      - type: action
+        template: action
+        label: 'Innovation '
+        url: /innovation
+        style: link
+        icon_class: ''
+        new_window: false
+        no_follow: false
     has_social: true
     social_links:
-    - type: action
-      template: action
-      label: Instagram
-      url: https://www.instagram.com/
-      style: icon
-      icon_class: instagram
-      new_window: true
-      no_follow: false
-    - type: action
-      template: action
-      label: Pinterest
-      url: https://pinterest.com/Sus_and_Eco
-      style: icon
-      icon_class: pinterest
-      new_window: true
-      no_follow: false
-    - type: action
-      template: action
-      label: Youtube
-      url: https://youtube.com
-      style: icon
-      icon_class: youtube
-      new_window: true
-      no_follow: false
+      - type: action
+        template: action
+        label: Instagram
+        url: 'https://www.instagram.com/'
+        style: icon
+        icon_class: instagram
+        new_window: true
+        no_follow: false
+      - type: action
+        template: action
+        label: Pinterest
+        url: 'https://pinterest.com/Sus_and_Eco'
+        style: icon
+        icon_class: pinterest
+        new_window: true
+        no_follow: false
+      - type: action
+        template: action
+        label: Youtube
+        url: 'https://youtube.com'
+        style: icon
+        icon_class: youtube
+        new_window: true
+        no_follow: false
   footer:
     type: footer
     template: footer
-    content: '&copy; Stackbit. All rights reserved. This Jamstack site was created
-      with <a href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
-      rel="noopener">Stackbit</a>. Create yours <a href="https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer"
-      target="_blank" rel="noopener">now</a>'
+    content: >-
+      &copy; Stackbit. All rights reserved. This Jamstack site was created with
+      <a href="https://www.stackbit.com/?utm_source=deployed-footer"
+      target="_blank" rel="noopener">Stackbit</a>. Create yours <a
+      href="https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer"
+      target="_blank" rel="noopener">now</a>
     links: []
-  domain: https://parallel-chestnut-c2241.netlify.app
-  favicon: "/images/s-efavicon.png"
+  domain: 'https://parallel-chestnut-c2241.netlify.app'
+  favicon: /images/s-efavicon.png
 taxonomies:
   stub: stub
 disableKinds:
-- RSS
-- taxonomy
-- taxonomyTerm
+  - RSS
+  - taxonomy
+  - taxonomyTerm
 markup:
   goldmark:
     renderer:
